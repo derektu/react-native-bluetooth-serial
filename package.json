@@ -1,0 +1,26 @@
+{
+  "name": "react-native-bluetooth-serial",
+  "description": "A react-native package to provide bluetooth serial communication.",
+  "version": "0.0.1",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/derektu/react-native-bluetooth-serial.git"
+  },
+  "keywords": [
+    "react-component",
+    "react-native",
+    "bluetooth",
+    "serial"
+  ],
+  "author": {
+    "name": "Derek Tu",
+    "email": "derektu123@gmail.com"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/derektu/react-native-bluetooth-serial#readme",
+  "bugs": {
+    "url": "https://github.com/derektu/react-native-bluetooth-serial/issues"
+  },
+  "readme": "ERROR: No README data found!"
+}
