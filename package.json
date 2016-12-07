@@ -1,7 +1,7 @@
 {
   "name": "react-native-bluetooth-serial",
   "description": "A react-native package to provide bluetooth serial communication.",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "main": "index.js",
   "repository": {
     "type": "git",
