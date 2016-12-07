@@ -1,5 +1,7 @@
 # react-native-bluetooth-serial
 
+**Due to personal reason, I won't be able to improve this project for the time being. And since the npm name conflicts with [https://github.com/rusel1989/react-native-bluetooth-serial](https://github.com/rusel1989/react-native-bluetooth-serial), I will remove it from npm registry.**
+
 A react-native module for serial IO communication over bluetooth device, support iOS (BLE) and Android (bluetooth 2).
 
 The source code is largely from [BluetoothSerial cordova plugin](https://github.com/don/BluetoothSerial).
